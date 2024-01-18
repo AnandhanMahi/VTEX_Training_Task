@@ -1,0 +1,12 @@
+{
+  "flex-layout.row#deals": {
+    "children": [
+      "flex-layout.col#deals1"
+    ]
+  },
+  "flex-layout.col#deals1": {
+    "children": [
+      "servicetesting"
+    ]
+  }
+}
