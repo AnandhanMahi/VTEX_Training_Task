@@ -1,0 +1,26 @@
+{
+  "countdown": {
+    "component": "Countdown"
+  },
+  "footerdesktop": {
+    "component": "FooterDesktop"
+  },
+  "footermobile": {
+    "component": "FooterMobile"
+  },
+  "megamenudesktop": {
+    "component": "MegaMenuDesktop"
+  },
+  "megamenumobile": {
+    "component": "MegaMenuMobile"
+  },
+  "servicetesting": {
+    "component": "ServiceTesting"
+  },
+  "fileuploadgraphql": {
+    "component": "FileUploadGraphQL"
+  },
+  "customcomponent":{
+    "component":"CustomComponent"
+  }
+}
